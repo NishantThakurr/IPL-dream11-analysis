@@ -16,10 +16,15 @@ I'm an engineer by academic qualification.I am a nerd for data and numbers and h
 ## Roadmap
 
 1)The simplest and hardest part of this project was to collect the data.I had to collect various IPL individual year data and merge them together.I had to do a lot of data manipulation and cleaning since names of players were different on different dataset.MS-Excel was really helpful here.
+
 2)I took 2 phases of the game separately.The first phase was when a particular team(let's say team1) was batting and the second phase was when it was bowling.
+
 3)I filtered out the deliveries where both the batsman was from team1 and bowler was from team2 and vice versa.
+
 4)Then batting and bowling stats of each player from both the teams were extracted.
+
 5)Stats of each player was analysed using bar plots
+
 6)A list of players was generated with the most impressive stats.
 
 
